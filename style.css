@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  background: white;
+
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    height: 150px;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+article p{
+    width: 300px;
+    padding: 20px;
+}
